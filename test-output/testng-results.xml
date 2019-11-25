@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-25T15:07:40Z" name="Default suite" finished-at="2019-11-25T15:07:41Z" duration-ms="981">
+    <groups>
+    </groups>
+    <test started-at="2019-11-25T15:07:40Z" name="Default test" finished-at="2019-11-25T15:07:41Z" duration-ms="981">
+      <class name="com.atmecs.testscripts.TestDataGeneration">
+        <test-method signature="dateGeneration()[pri:0, instance:com.atmecs.testscripts.TestDataGeneration@f14a7d4]" started-at="2019-11-25T15:07:40Z" name="dateGeneration" finished-at="2019-11-25T15:07:41Z" duration-ms="950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateGeneration -->
+      </class> <!-- com.atmecs.testscripts.TestDataGeneration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
